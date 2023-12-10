@@ -1,0 +1,125 @@
+.card-title{
+    font-family: 'Times New Roman', Times, serif;
+}
+.card{
+    margin-bottom: 70px;
+}
+
+.introduction img{
+    margin-top: 140px;
+    margin-left: 500px;
+    size: 20%;
+   
+    
+}
+.container .introduction{
+    margin-top: 50px;
+}
+.navbar a{
+    color: rgb(0, 0, 0);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    margin-left:25px;
+}
+.navbar a:hover{
+    color: rgb(255, 132, 212);
+}
+.introduction h1{
+    font-size: 50px;
+    color: aliceblue;
+    align-items: center;
+    margin-left: -80px;
+    margin-top: 20px;
+    
+}
+.introduction h3{
+    color: rgb(161, 211, 255);
+    margin-left: -40px;
+    
+}
+.container .aboutme{
+    color: aliceblue;
+    margin: 10px;
+    
+    
+}
+.container .myprojects h1{
+    color: aliceblue;
+    margin: 10px;
+   
+
+
+}
+.container .myprojects h5{
+    color: aliceblue;
+    margin: 10px;
+    margin-bottom: 50px;
+    
+
+}
+.footer{
+   color: aliceblue; 
+   margin-left: 0%;
+}
+.footer2{
+    margin-left: 24%;
+    color: aliceblue;
+}
+.container .card{
+    background-color: rgb(255, 218, 229);
+}
+
+.headingPinterest h1{
+    color: rgb(255, 255, 255);
+    padding: 50px;
+    margin-left: 27% ;
+}
+.SmallHeadingPinterest{
+    color: rgb(255, 255, 255);
+    align-items: center;
+    margin-left: 15% ;
+
+}
+.imagespinterest{
+    padding: 50px;
+    margin-left: 5% ;
+
+}
+.buttonpinterest{
+    margin-left: 40%;
+    margin-top: 3%;
+}
+.headingEeaao{
+    color: rgb(255, 255, 255);
+    padding: 50px;
+    margin-left: 32% ;
+}
+.SmallHeadingEeaao{
+    color: rgb(255, 255, 255);
+    align-items: center;
+    margin-left: 19%;
+    margin-bottom: 30px;
+}
+.imageEeaao{
+    margin-left: 30%;
+    stroke: antiquewhite;
+
+}
+.headingSpace h1{
+    color: rgb(255, 255, 255);
+    padding: 50px;
+    margin-left: 30% ;
+}
+.SmallHeadingSpace{
+    color: rgb(255, 255, 255);
+    align-items: center;
+    margin-left: 25% ;
+
+
+}
+.imagesSpace{
+    padding: 50px;
+    margin-left: 27% ;
+
+}
+
